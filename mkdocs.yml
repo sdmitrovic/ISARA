@@ -51,7 +51,7 @@ nav:
   - User Guide: user_guide.md
   - Research: research.md
   - Contact: contact.md
-  - Copyright and License: License.md
+  - Copyright and License: License.html
 
 # Theme Extras
 extra_css:
