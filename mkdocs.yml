@@ -59,7 +59,6 @@ extra_css:
 
 # Extra Plugins
 plugins:
-    - search
     - mkdocstrings
     - git-revision-date
     - mkdocs-jupyter:
