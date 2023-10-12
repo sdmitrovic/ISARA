@@ -11,7 +11,7 @@ edit_uri: edit/main/docs/
 
 # Configuration
 theme:
-  name: material
+  name: bootstrap386
   highlightjs: true
   font:
     text: Roboto
