@@ -1,14 +1,12 @@
-site_name: FOSS Reference Hub
-site_description: FOSS Reference Hub
-site_author: Michele Cosi
-site_url: https://cyverse-learning-materials.github.io/foss-reference-hub
+site_name: ISARA
+site_description: In Situ Aerosol Retrieval Algorithm
+site_author: Sanja Dmitrovic
+site_url: https://sdmitrovic.github.io/ISARA_site/
 
-# Repository
-repo_name: FOSS Reference Hub
-repo_url: https://github.com/CyVerse-learning-materials/foss-reference-hub
+# Code Repository
+repo_name: ISARA Code
+repo_url: https://github.com/sdmitrovic/ISARA_code
 edit_uri: edit/main/docs/
-# Copyright
-copyright: 'Copyright &copy; 2023 - 2024 CyVerse'
 
 
 # Configuration
@@ -49,13 +47,11 @@ theme:
 # Page tree
 nav:
   - Home: index.md
-  - Codebase: 
-      Installation and Requirements: installation.md
-      User Manual: manual.md
-  - Data Managemen Plan: Data_Management_Plan.md
-  - Governance & Operations: Governance_Operations.md
-  - The openDendro Project: https://opendendro.org/
-  - FOSS Main Page: https://foss.cyverse.org/
+  - Install: installation.md 
+  - User Guide: user_guide.md
+  - Research: research.md
+  - Contact: contact.md
+  - Copyright and License: license.md
 
 # Theme Extras
 extra_css:
