@@ -47,11 +47,12 @@ theme:
 # Page tree
 nav:
   - Home: index.md
-  - Install: installation.md 
-  - User Guide: user_guide.md
+  - Codebase: 
+      Installation and Requirements: installation.md
+      User Manual: manual.md
   - Research: research.md
-  - Contact: contact.html
-  - Copyright and License: License.html
+  - Contact: contact.md
+  - Copyright and License: License.md
 
 # Theme Extras
 extra_css:
