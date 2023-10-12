@@ -7,12 +7,18 @@ and diverse sets of aerosol particle profiles encountered within field campaigns
 aerosol data sets and ultimately advance field campaign data quality assurance. More information on this software including installation and use can be found in 
 "User Guide". Click here to access code repository. 
 
-## Objective
+## Authors
 
-The goal of this page is to provide FOSS learners with an idea of what (hopefully) a well constructed GitHub repository should look like.
+ISARA was first developed by Joseph Schlosser with ongoing development by Joseph Schlosser, Snorre Stamnes, and Sanja Dmitrovic. 
 
-Throughout FOSS, learners will be given the opportunity to reinforce their knowledge through self-paced assignments: a novel topic will be covered each week, and at the end of the lesson learners will be asked to add their newly gained knowledge to their own GitHub repository. This repository aims to be a reference learners can use when adding to their own work.
+## Acknowledgements
 
-## Structure
+ISARA is being developed in collaboration with the Office of Naval Research, NASA Langley Research Center, and the University of Arizona.
+
+## Notes
+
+This website may have trouble loading properly on Mozilla Firefox. To ensure that the website runs smoothly, go to Settings -> Privacy & Security -> uncheck
+"Query OCSP responder servers to confirm the current validity of certificates." If users have any other issues, please email us using the information listed
+in "Contact".
 
 
