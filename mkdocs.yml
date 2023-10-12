@@ -58,12 +58,12 @@ extra_css:
   - stylesheets/extra.css
 
 # Extra Plugins
-plugins:
-    - mkdocstrings
-    - git-revision-date
-    - mkdocs-jupyter:
-          include_source: True
-          ignore_h1_titles: True
+plugins: []
+    # - mkdocstrings
+    # - git-revision-date
+    # - mkdocs-jupyter:
+          # include_source: True
+          # ignore_h1_titles: True
 
 # Extensions (leave as is)
 markdown_extensions:
