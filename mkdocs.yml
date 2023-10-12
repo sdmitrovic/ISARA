@@ -2,6 +2,7 @@ site_name: ISARA
 site_description: In Situ Aerosol Retrieval Algorithm
 site_author: Sanja Dmitrovic
 site_url: https://sdmitrovic.github.io/ISARA_site/
+repo_url: https://github.com/sdmitrovic/ISARA_site
 
 # Code Repository
 repo_name: ISARA Code
