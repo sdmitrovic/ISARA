@@ -1,6 +1,6 @@
-In Situ Aerosol Retrieval Algorithm (ISARA)
+#  In Situ Aerosol Retrieval Algorithm (ISARA)
 
-# About  
+## About  
 
 ISARA is an open-source Python codebase that models ambient aerosol optical and microphysical properties using user-inputted field campaign instrument data sets. 
 This software calculates these properties separately for fine-mode and coarse-mode particles at the wavelength(s) and relative humidity (RH) level(s) of choice. 
