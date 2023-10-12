@@ -31,4 +31,4 @@ SOFTWARE.
 
 ## Third-party code
 
-{{ site.software_name }} uses the "Modelled optical properties of ensembles of aerosol particles" (MOPSMAP) software package found at https://mopsmap.net/.
+ISARA uses the "Modelled optical properties of ensembles of aerosol particles" (MOPSMAP) software package found at https://mopsmap.net/.
