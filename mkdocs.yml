@@ -46,13 +46,13 @@ theme:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: 'index.md'
   - Codebase: 
-      Installation and Requirements: installation.md
-      User Manual: manual.md
-  - Research: research.md
-  - Contact: contact.md
-  - Copyright and License: License.md
+      Installation and Requirements: 'installation.md'
+      User Manual: 'manual.md'
+  - Research: 'research.md'
+  - Contact: 'contact.md'
+  - Copyright and License: 'License.md'
 
 # Theme Extras
 extra_css:
