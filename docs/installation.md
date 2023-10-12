@@ -8,4 +8,4 @@
 
 ### User Manual
 
-[To learn how to use ISARA, please refer to user guide.](manual.md)
+To learn how to use ISARA, please refer to [user guide.](manual.md)
