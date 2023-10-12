@@ -1,19 +1,17 @@
-# Contact Information
-
 E-mail sdmitrovic@arizona.edu with:
 
-* Discussions about the deployment and use of {{ site.software_name }}.
+* Discussions about the deployment and use of ISARA.
 * Information, hints and tips you think would be useful for other
-  {{ site.software_name }}  users to know.
-* Requests for features or changes to {{ site.software_name }} and/or its
+  ISARA  users to know.
+* Requests for features or changes to ISARA and/or its
   documentation. 
-* Reporting bugs in {{ site.software_name }} or issues with the
+* Reporting bugs in ISARA or issues with the
   documentation. 
 * Providing updates on bugs e.g. you find a fix for a bug you
   reported. 
 * Information on presentations you will give or have given, or papers
   you have published, based on research to which 
-  {{ site.software_name }} contributed. 
+  ISARA contributed. 
 * Requests for discussions relating to collaborations.
 
 
