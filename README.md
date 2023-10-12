@@ -1,6 +1,6 @@
 # Reference website for In Situ Aerosol Retrieval Algorithm (ISARA). 
 
-This GitHub page is a companion repository to the In Situ Aerosol Retrieval Algorithm (ISARA) software ([https://github.com/sdmitrovic/ISARA_code]).
+This GitHub page is a companion repository to the In Situ Aerosol Retrieval Algorithm (ISARA) software [https://github.com/sdmitrovic/ISARA_code].
 
 ## Objective
 
