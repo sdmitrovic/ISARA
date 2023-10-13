@@ -48,7 +48,7 @@ theme:
 nav:
   - Home: 'index.md' 
   - Installation and Requirements: 'installation.md'
-  - User Manual: 'manual.md'
+  - User Guide: 'manual.md'
   - Research: 'research.md'
   - Contact: 'contact.md'
   - Copyright and License: 'License.md'
